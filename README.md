@@ -1,0 +1,2 @@
+# node_thetav_ble_test
+Theta vでBLE制御しようとしてもうまくいかないソース。片っ端からServiceをReadしてる
